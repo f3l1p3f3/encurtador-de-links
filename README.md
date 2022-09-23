@@ -3,7 +3,7 @@ App que optimiza links tornando-os mais simples
 
 # App criado com React Native via Expo
 
-##Técnicas
+## Técnicas
 Foi utilizado requizições via API.\
 Animações com Animated.\
 
